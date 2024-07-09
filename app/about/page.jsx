@@ -1,6 +1,6 @@
 function Page() {
   return (
-    <div className='sp-y-4 mx-auto max-w-6xl'>
+    <div className='mx-auto max-w-6xl space-y-4 p-4'>
       <h1 className='text-2xl font-medium text-amber-600'>About</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
